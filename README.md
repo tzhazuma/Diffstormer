@@ -2,8 +2,9 @@
  Combined diffusion LDM with Restormer/Swin/VIT/Resnet/CNN for imaging restoration  
  
 A modified version of code of the Paper:    
+***
 
-# MoCo-Diff: Adaptive Conditional Prior on Diffusion Network for MRI Motion Correction
+## MoCo-Diff: Adaptive Conditional Prior on Diffusion Network for MRI Motion Correction
 https://doi.org/10.1007/978-3-031-72089-5_39   
 
 @InProceedings{Li_MoCoDiff_MICCAI2024,
@@ -16,7 +17,8 @@ https://doi.org/10.1007/978-3-031-72089-5_39
         month = {October},
         page = {411 -- 421}
 }
-# Controled LDM:
+***
+## Controled LDM:
 https://github.com/lllyasviel/ControlNet  
 
 @misc{zhang2023adding,
@@ -25,7 +27,8 @@ https://github.com/lllyasviel/ControlNet
   booktitle={IEEE International Conference on Computer Vision (ICCV)}
   year={2023},
 }
-# Restormer
+***
+## Restormer
 https://github.com/swz30/Restormer  
 
 @inproceedings{Zamir2021Restormer,
@@ -35,7 +38,8 @@ https://github.com/swz30/Restormer
     booktitle={CVPR},
     year={2022}
 }
-# SwinIR
+***
+## SwinIR
 https://github.com/JingyunLiang/SwinIR  
 
 @article{liang2021swinir,
