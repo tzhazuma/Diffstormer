@@ -19,6 +19,7 @@ https://doi.org/10.1007/978-3-031-72089-5_39
         month = {October},
         page = {411 -- 421}
 }
+Which sited these codes
 ***
 ## Controled LDM:
 https://github.com/lllyasviel/ControlNet  
@@ -49,4 +50,15 @@ https://github.com/JingyunLiang/SwinIR
   author={Liang, Jingyun and Cao, Jiezhang and Sun, Guolei and Zhang, Kai and Van Gool, Luc and Timofte, Radu},
   journal={arXiv preprint arXiv:2108.10257},
   year={2021}
+}
+***
+## DiffBIR
+https://github.com/XPixelGroup/DiffBIR
+@misc{lin2024diffbir,
+      title={DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior}, 
+      author={Xinqi Lin and Jingwen He and Ziyan Chen and Zhaoyang Lyu and Bo Dai and Fanghua Yu and Wanli Ouyang and Yu Qiao and Chao Dong},
+      year={2024},
+      eprint={2308.15070},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }
