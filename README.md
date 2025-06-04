@@ -13,7 +13,6 @@ https://doi.org/10.1007/978-3-031-72089-5_39
         month = {October},
         page = {411 -- 421}
 }
-Based on 
 # Controled LDM:
 https://github.com/lllyasviel/ControlNet
 @misc{zhang2023adding,
@@ -22,7 +21,6 @@ https://github.com/lllyasviel/ControlNet
   booktitle={IEEE International Conference on Computer Vision (ICCV)}
   year={2023},
 }
-and 
 # Restormer
 https://github.com/swz30/Restormer
 @inproceedings{Zamir2021Restormer,
@@ -32,7 +30,6 @@ https://github.com/swz30/Restormer
     booktitle={CVPR},
     year={2022}
 }
-and 
 # SwinIR
 https://github.com/JingyunLiang/SwinIR
 @article{liang2021swinir,
