@@ -1,5 +1,5 @@
 # Diffstormer
- Combined diffusion LDM with Restormer/Swin/VIT/Resnet/CNN for imaging restoration 
+ Combined diffusion LDM with Restormer/SwinIR/VIT/Resnet/CNN for imaging restoration 
  ###
  Still under construction
  ***
@@ -61,4 +61,13 @@ https://github.com/XPixelGroup/DiffBIR
       eprint={2308.15070},
       archivePrefix={arXiv},
       primaryClass={cs.CV}
+}
+***
+## Real-ESRGAN
+https://github.com/xinntao/Real-ESRGAN
+@InProceedings{wang2021realesrgan,
+    author    = {Xintao Wang and Liangbin Xie and Chao Dong and Ying Shan},
+    title     = {Real-ESRGAN: Training Real-World Blind Super-Resolution with Pure Synthetic Data},
+    booktitle = {International Conference on Computer Vision Workshops (ICCVW)},
+    date      = {2021}
 }
