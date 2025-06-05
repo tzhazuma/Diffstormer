@@ -19,7 +19,8 @@ https://doi.org/10.1007/978-3-031-72089-5_39
         month = {October},
         page = {411 -- 421}
 }
-Which sited these codes
+Which based on these codes:
+Mainly based on DiffBIR
 ***
 ## Controled LDM:
 https://github.com/lllyasviel/ControlNet  
@@ -44,7 +45,6 @@ https://github.com/swz30/Restormer
 ***
 ## SwinIR
 https://github.com/JingyunLiang/SwinIR  
-
 @article{liang2021swinir,
   title={SwinIR: Image Restoration Using Swin Transformer},
   author={Liang, Jingyun and Cao, Jiezhang and Sun, Guolei and Zhang, Kai and Van Gool, Luc and Timofte, Radu},
@@ -70,4 +70,32 @@ https://github.com/xinntao/Real-ESRGAN
     title     = {Real-ESRGAN: Training Real-World Blind Super-Resolution with Pure Synthetic Data},
     booktitle = {International Conference on Computer Vision Workshops (ICCVW)},
     date      = {2021}
+}
+*** 
+## KAIR
+https://github.com/cszn/KAIR
+***
+## SCUNet
+https://github.com/cszn/SCUNet
+@article{zhang2023practical,
+   author = {Zhang, Kai and Li, Yawei and Liang, Jingyun and Cao, Jiezhang and Zhang, Yulun and Tang, Hao and Fan, Deng-Ping and Timofte, Radu and Gool, Luc Van},
+   title = {Practical Blind Image Denoising via Swin-Conv-UNet and Data Synthesis},
+   journal = {Machine Intelligence Research},
+   DOI = {10.1007/s11633-023-1466-0},
+   url = {https://doi.org/10.1007/s11633-023-1466-0},
+   volume={20},
+   number={6},
+   pages={822--836},
+   year={2023},
+   publisher={Springer}
+}
+***
+## BSRGAN
+https://github.com/cszn/BSRGAN
+@inproceedings{zhang2021designing,
+    title={Designing a Practical Degradation Model for Deep Blind Image Super-Resolution},
+    author={Zhang, Kai and Liang, Jingyun and Van Gool, Luc and Timofte, Radu},
+    booktitle={IEEE International Conference on Computer Vision},
+    pages={4791--4800},
+    year={2021}
 }
