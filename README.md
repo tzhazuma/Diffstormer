@@ -1,11 +1,11 @@
 # Diffstormer
- Combined diffusion LDM with Restormer/SwinIR/VIT/Resnet/CNN for imaging restoration 
+ Combined controlled LDM (CLDM) with Restormer/SwinIR/SCUnet/VIT/Resnet/CNN for imaging restoration 
  ###
+ A enhanced version (multi stage 1 model) of DiffBIR
  Still under construction
  ***
 A modified version of code of the Paper:    
 ***
-
 ## MoCo-Diff: Adaptive Conditional Prior on Diffusion Network for MRI Motion Correction
 https://doi.org/10.1007/978-3-031-72089-5_39   
 
