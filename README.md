@@ -1,7 +1,7 @@
 # Diffstormer
  Combined controlled LDM (CLDM) with Restormer/SwinIR/SCUnet/VIT/Resnet/CNN for imaging restoration 
  ###
- A enhanced version (multi stage 1 model) of DiffBIR
+ It is a enhanced version (multi stage 1 model) of DiffBIR    
  Still under construction
  ***
 A modified version of code of the Paper:    
